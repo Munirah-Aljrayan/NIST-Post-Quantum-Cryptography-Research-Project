@@ -5,8 +5,9 @@ at Imam Abdulrahman Bin Faisal University, focused on post-quantum cryptography 
 of the NIST standardization efforts.
 
 ## 📄 Project Report
-The full research report is available at the following path:
-`CRYSTALS-Kyber and CRYSTALS-Dilithium.pdf`
+The full research report for this project is available here:
+[CRYSTALS-Kyber and CRYSTALS-Dilithium.pdf](./CRYSTALS-Kyber%20and%20CRYSTALS-Dilithium.pdf)
+
 
 
 ## 🔐 Research Focus
