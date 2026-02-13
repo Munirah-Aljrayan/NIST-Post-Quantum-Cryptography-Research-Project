@@ -4,6 +4,12 @@ This repository documents my contribution to an academic research project conduc
 at Imam Abdulrahman Bin Faisal University, focused on post-quantum cryptography as part
 of the NIST standardization efforts.
 
+## 📄 Project Report
+The full research report is available at the following path:
+
+`NIST-Post-Quantum-Cryptography-Research-Project/CRYSTALS-Kyber and CRYSTALS-Dilithium.pdf`
+
+
 ## 🔐 Research Focus
 - Post-quantum cryptography standards
 - Algorithms: CRYSTALS-Kyber and CRYSTALS-Dilithium 
